@@ -18,6 +18,9 @@
     [self.window makeKeyAndVisible];
     return YES;
     //prueba
+    //cambios
+    NSLog(@"jeje");
+    ;
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application
